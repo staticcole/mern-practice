@@ -4,35 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1efa7dda-d4ea-42d3-8d0e-2f811457b09d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/backend/controllers/workoutController.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/models/workoutModel.js" afterDir="false" />
+    <list default="true" id="1efa7dda-d4ea-42d3-8d0e-2f811457b09d" name="Changes" comment="up to 8 lesson">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/.env" beforeDir="false" afterPath="$PROJECT_DIR$/backend/.env" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/routes/workouts.js" beforeDir="false" afterPath="$PROJECT_DIR$/backend/routes/workouts.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/backend/server.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.bin/mime" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.bin/mime" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/dotenv/CHANGELOG.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/dotenv/CHANGELOG.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/dotenv/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/dotenv/LICENSE" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/dotenv/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/dotenv/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/dotenv/config.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/dotenv/config.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/dotenv/config.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/dotenv/config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/dotenv/lib/cli-options.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/dotenv/lib/cli-options.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/dotenv/lib/env-options.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/dotenv/lib/env-options.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/dotenv/lib/main.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/dotenv/lib/main.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/dotenv/lib/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/dotenv/lib/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/dotenv/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/dotenv/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mime/CHANGELOG.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/mime/CHANGELOG.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mime/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/mime/LICENSE" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mime/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/mime/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mime/cli.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/mime/cli.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mime/mime.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/mime/mime.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mime/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/mime/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mime/src/build.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/mime/src/build.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mime/src/test.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/mime/src/test.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,8 +62,16 @@
       <workItem from="1662050296830" duration="411000" />
       <workItem from="1662050723213" duration="214000" />
       <workItem from="1662050949842" duration="1818000" />
-      <workItem from="1662307044930" duration="8637000" />
+      <workItem from="1662307044930" duration="9258000" />
     </task>
+    <task id="LOCAL-00001" summary="up to 8 lesson">
+      <created>1662322228864</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1662322228864</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -106,5 +87,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="up to 8 lesson" />
+    <option name="LAST_COMMIT_MESSAGE" value="up to 8 lesson" />
   </component>
 </project>
